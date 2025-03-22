@@ -1,4 +1,4 @@
-# 侯仲成的个人博客 :link: https://houzhongcheng.github.io 
+# 侯仲成的个人博客 :link: https://blog.houzhongcheng.com 
 ### :page_facing_up: [1](https://houzhongcheng.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 848 
