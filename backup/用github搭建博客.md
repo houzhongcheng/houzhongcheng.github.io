@@ -8,7 +8,7 @@
 
 在创建仓库页面填写：自定义三级域名.github.io（比如：hzc.github.io）。
 
-![](https://raw.githubusercontent.com/houzhongcheng/houzhongcheng_picture/main/picPixPin_2025-03-22_17-00-09.png)
+![](https://raw.githubusercontent.com/houzhongcheng/houzhongcheng_picture/main/picPixPin_2025-03-25_18-09-44.png)
 
 创建完成后，在pages中选择github Actions
 
